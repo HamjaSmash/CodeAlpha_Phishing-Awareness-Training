@@ -6,8 +6,7 @@ Part of the CodeAlpha Cyber Security Internship (Task 2).
 A presentation and interactive quiz that teach people how to recognise and avoid phishing attacks.
 
 ## What's inside
-- `Phishing_Awareness_Training.pdf`: the presentation (14 slides)
-- `Phishing_Awareness_Training.pptx`: editable version
+- `Phishing_Awareness_Training.pdf`: the presentation 
 - `Phishing_Quiz_Questions.md`: quiz questions, answers and explanations
 
 ## Topics covered

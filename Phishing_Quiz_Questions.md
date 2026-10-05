@@ -1,7 +1,7 @@
 # Phishing Awareness Quiz
 
 Part of the CodeAlpha Cyber Security Internship (Task 2).
-Take the quiz: [Google Form](PASTE-YOUR-FORM-LINK-HERE)
+Take the quiz: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeyiw0dl9N_G65OEPNpRsAnJpHriCZE_1mOOBhCWKXgOKD2mg/viewform?usp=dialog)
 
 Scoring: 1 point per question (8 total). Score 6 or more and you are phishing-aware.
 
